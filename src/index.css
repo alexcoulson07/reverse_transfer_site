@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-footer: #212529;
+  --color-main-font: #423e3c;
+  --color-beaver-orange: #d73f09;
+  --color-button-fill: #006082;
+  --color-course: #d9d9d9;
+  --font-exo-2: "Exo 2", sans-serif;
+}
